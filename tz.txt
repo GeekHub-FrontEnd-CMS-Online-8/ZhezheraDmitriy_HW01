@@ -1,0 +1,18 @@
+Lesson 1 (Intro).
+Your practical homework:
+1. Setup GIT on your local machine and learn its basics. There’re multiple source you can learn about GIT. Best of them:
+1. https://www.youtube.com/playlist?list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h&fbclid=IwAR3cRYz9ZmjYGyLcD-U7ZkAk6VZ8Y2uVCElFhg5UHGCZZ4I9yrWfJ5xkfK0 (введение, основы, ветки,
+слияние - минимальный набор который вы должны понимать)
+2. https://learngitbranching.js.org/
+2. Create two HTML pages of any complexity (use your imagination) that should link from on to another (I can go from one page to another by clicking on a link from a browser).
+3. Submit HTML pages as GIT repository (created on behalf of organization I’ll invite you in).
+
+Your theory homework:
+1. Read about HTML tags / attributes; Doctype; HEAD tags; HTML validation (W3C).
+2. Semantics in HTML
+3. Tags, which types they're grouped in. (edited)
+
+Вот первое домашнее задание.
+Дедлайн как и у основной группы до 6,00 утра.
+
+Домашки именуем (Фамилия имя)_HW(№ домашки) и желательно использовать имя то которые вы используете в slack, что бы не путаться.
